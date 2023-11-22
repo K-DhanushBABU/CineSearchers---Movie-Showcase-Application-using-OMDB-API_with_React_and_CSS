@@ -11,3 +11,10 @@ Key Features:
 
 Deployment Information:
 CineSearchers is live and accessible through Netlify, providing a user-friendly and accessible platform to explore movies. Visit https://cinesearchers.netlify.app/ to experience the CineSearchers.
+
+Preview:
+![Screenshot 2023-11-22 174123](https://github.com/K-DhanushBABU/CineSearchers---Movie-Showcase-Application-using-OMDB-API_with_React_and_CSS/assets/103583233/89e43578-4ab3-4674-83e7-9ed777f3506a)
+![Screenshot 2023-11-22 174146](https://github.com/K-DhanushBABU/CineSearchers---Movie-Showcase-Application-using-OMDB-API_with_React_and_CSS/assets/103583233/19fa68ea-7496-4304-ae34-d91e93866cb7)
+![Screenshot 2023-11-22 174218](https://github.com/K-DhanushBABU/CineSearchers---Movie-Showcase-Application-using-OMDB-API_with_React_and_CSS/assets/103583233/9aa1f59e-547d-41e8-9bc8-7ddb7395dd93)
+![Screenshot 2023-11-22 174233](https://github.com/K-DhanushBABU/CineSearchers---Movie-Showcase-Application-using-OMDB-API_with_React_and_CSS/assets/103583233/468fe67d-8c41-49c5-a934-20f4ab56a640)
+![Screenshot 2023-11-22 174318](https://github.com/K-DhanushBABU/CineSearchers---Movie-Showcase-Application-using-OMDB-API_with_React_and_CSS/assets/103583233/56680e8b-a2ef-4f21-a35f-c64a3ab2a4d9)
